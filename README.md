@@ -6,7 +6,7 @@ Simple ping-pong game with AI in SFML
  I've been working on my first game, and here's a result! 
  🕹️ It’s a mix of **Pong-inspired mechanics** with a twist: you control a character on the field to interact with the ball.
  
- ![Game Demo](path/to/game_demo.gif)
+ ![Game Demo](pingpong.gif)
  
  
  ### 🎯 Key Features So Far:  
